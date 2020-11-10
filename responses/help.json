@@ -1,0 +1,14 @@
+{
+    "help": {
+        "validEndpoints": [
+            {
+                "endpoint": "api/games",
+                "description": "Get all games present in database."
+            },
+            {
+                "endpoint": "api/games/<OBJECTID>",
+                "description": "Get a specific game based off of an id."
+            }
+        ]
+    }
+}

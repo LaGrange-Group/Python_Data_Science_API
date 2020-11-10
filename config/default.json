@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://serverlessadmin:YU9LF8rVsB7uf0T3@cluster0.zij44.mongodb.net/python-flask?retryWrites=true&w=majority"
+}
